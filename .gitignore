@@ -1,0 +1,5 @@
+*.o
+*.a
+/oscviz
+/tests/test_edgemap
+/tools/gen_sample
